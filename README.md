@@ -8,8 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-    <input placeholder="inserisci lunghezza lato">
-    <button style="padding: 10px; border-radius: 26px; background-color: red; color: black; cursor: pointer;">calcola Cubo</button>
+    <input placeholder="inserisci numero da dividere">
+    <button style="padding: 10px; border-radius: 26px; background-color: red; color: black; cursor: pointer;">calcola i divisori</button>
     <h1 style="display: block;"></h1>
     <script>
         let bottone=document.querySelector('button')
